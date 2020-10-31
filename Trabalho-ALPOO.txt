@@ -1,11 +1,11 @@
 Grupo: Koringatron
 
 
-Augusto Calisto de Aquino (D898HI8)
+Augusto Calisto de Aquino (D898HI8) - CC4P68
 
-Luiz Gustavo de Oliveira Diniz (N537BD3)
+Luiz Gustavo de Oliveira Diniz (N537BD3) - CC4P68
 
-Oscar Luiz Rodrigues de Oliveira (D85HEF7)
+Oscar Luiz Rodrigues de Oliveira (D85HEF7) - CC3P68
 
 
 GitHub: https://github.com/luiz-diniz/alpoo
